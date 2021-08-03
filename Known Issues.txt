@@ -1,0 +1,7 @@
+There are none.
+
+We fixed the bugs from the first exercise:
+1. Fixed the logic in the type of District and Election.
+2. Program exists only from menu (main).
+3. Display all parties option - fixed load and save of representatives.
+
